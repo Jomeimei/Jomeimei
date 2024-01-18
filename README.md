@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚧 Currently in the process of uploading previous projects! 🚧
 
-Ask me about: indie game development + neural radiance fields!
+Ask me about: indie game development + neural radiance fields.
 
 Currently working on: 
 - D&D character generator, includes names and backgrounds o7
