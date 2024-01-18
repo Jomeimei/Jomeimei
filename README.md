@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚧 Currently in the process of uploading previous projects! 🚧
+
+Ask me about: indie game development + neural radiance fields!
+
+Currently working on: 
+- D&D character generator, includes names and backgrounds o7
+- Horror game using Godot (Python) that uses the separate windows to do cool scares
+- student run game dev project
+  
+Currently learning:
+- Kotlin
